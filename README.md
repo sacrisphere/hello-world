@@ -7,3 +7,4 @@ readme-eidts를 만들고
 11 19에 작성하는 test-edits
 
 2020 11 03 
+삭제테스트
